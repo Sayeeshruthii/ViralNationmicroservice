@@ -1,0 +1,16 @@
+{
+  "name": "viralnationmicroservice",
+  "version": "1.0.0",
+  "description": "Hey Hi!! A budding devops Engineer . Please visit my websit for more info https://sayeeshruthi97.wixsite.com/portfolio ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "I'm Sayee Shruthi here!!",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "save": "^2.9.0"
+  }
+}
