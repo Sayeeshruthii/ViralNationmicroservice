@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: viralnationmicroservice
-        image: sayeecontainerregistry.azurecr.io/sayeeshruthii/viralnationmicroservice:16
+        image: sayeecontainerregistry.azurecr.io/sayeeshruthii/viralnationmicroservice:17
         ports:
         - containerPort: 8080
 # service type loadbalancer       
